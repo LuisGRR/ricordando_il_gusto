@@ -2,36 +2,34 @@
 
 ## Screenshots
 
-![Capturas de pantalla](https://github.com/LuisGRR/ricordando_il_gusto/blob/master/public/screenshots/README.md)
+[Capturas de pantalla](https://github.com/LuisGRR/ricordando_il_gusto/blob/master/public/screenshots/README.md)
 
-## Recommended IDE Setup
+## Tecnologias utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+* tailwindcss
+* VueJS
+* Vue-Router
+* splidejs(splide-vue)
+* fontawesome vue
 
-## Customize configuration
+## Glonar proyecto
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```git
+git clone https://github.com/LuisGRR/ricordando_il_gusto.git
+```
 
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y recargar
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Personalizar configuración
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+See [Vite Configuration Reference](https://vitejs.dev/config/).
