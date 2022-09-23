@@ -2,7 +2,7 @@
   <div class="flex flex-col space-y-10 pb-80">
     <div>
       <img
-        src="src/assets/img/meal-g7fccfaafa_1280.jpg"
+        src="../assets/img/meal-g7fccfaafa_1280.jpg"
         alt="meal"
         class="w-full max-h-screen miSliderImg object-cover align-top"
       />
