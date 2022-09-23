@@ -1,5 +1,7 @@
 # ricordando_il_gusto
 
+![ImgPrincipal](https://github.com/LuisGRR/ricordando_il_gusto/blob/master/public/imgMarkdow/screenPincipal.png)
+
 ## Screenshots
 
 [Capturas de pantalla](https://github.com/LuisGRR/ricordando_il_gusto/blob/master/public/screenshots/README.md)
