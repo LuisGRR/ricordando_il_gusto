@@ -6,23 +6,29 @@
     <div
       class="md:flex items-center space-x-20 justify-center text-white hidden"
     >
-      <RouterLink class="justify-self-auto hover:text-orange-500" to="/"
+      <RouterLink
+        class="justify-self-auto hover:text-orange-500 focus:text-orange-500 focus:border-b-2 focus:border-orange-500"
+        to="/"
         >Home</RouterLink
       >
       <RouterLink
-        class="justify-self-auto hover:text-orange-500"
+        class="justify-self-auto hover:text-orange-500 focus:text-orange-500 focus:border-b-2 focus:border-orange-500"
         to="/Ilimitados"
         >Limitados</RouterLink
       >
       <RouterLink
-        class="justify-self-auto hover:text-orange-500"
+        class="justify-self-auto hover:text-orange-500 focus:text-orange-500 focus:border-b-2 focus:border-orange-500"
         to="/Platillos"
         >Platillos</RouterLink
       >
-      <RouterLink class="justify-self-auto hover:text-orange-500" to="/About"
+      <RouterLink
+        class="justify-self-auto hover:text-orange-500 focus:text-orange-500 focus:border-b-2 focus:border-orange-500"
+        to="/About"
         >Nosotros</RouterLink
       >
-      <RouterLink class="justify-self-auto hover:text-orange-500" to="/Contacto"
+      <RouterLink
+        class="justify-self-auto hover:text-orange-500 focus:text-orange-500 focus:border-b-2 focus:border-orange-500"
+        to="/Contacto"
         >Contacto</RouterLink
       >
     </div>
