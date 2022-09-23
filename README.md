@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Pagina principal]()
+![Pagina principal](https://github.com/LuisGRR/ricordando_il_gusto/blob/master/public/imgMarkdow/Home.png)
 
 ## Recommended IDE Setup
 
