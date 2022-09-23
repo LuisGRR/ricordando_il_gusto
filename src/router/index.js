@@ -5,6 +5,7 @@ import About from "../views/About-Pagina.vue";
 import Ilimitados from "../views/Platillos-limitados.vue";
 import Contacto from "../views/Contacto-redes.vue";
 import infoPlatillo from "../views/InfoPlatillo.vue";
+import paginaError from "../views/paginaError.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +39,14 @@ const router = createRouter({
       path: "/Platillo",
       name: "platillo",
       component: infoPlatillo,
+    },
+    {
+      path: "/404",
+      component: paginaError,
+    },
+    {
+      path: "/:catchAll(.*)",
+      redirect: "/404",
     },
   ],
 });
