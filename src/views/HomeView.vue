@@ -39,7 +39,7 @@ export default {
           </p>
         </div>
         <div class="p-10">
-          <img src="../assets/img/InfoRestaurant.jpg" alt="InfoRestaurant" />
+          <img src="/src/assets/img/InfoRestaurant.jpg" alt="InfoRestaurant" />
         </div>
       </div>
     </section>

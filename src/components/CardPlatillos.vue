@@ -6,7 +6,7 @@
     <div>
       <img
         class="sm:h-72 sm:w-full"
-        src="../assets/img/meal-g7fccfaafa_1280.jpg"
+        src="/src/assets/img/meal-g7fccfaafa_1280.jpg"
       />
     </div>
     <div class="flex flex-col justify-items-start mx-4 space-y-2">

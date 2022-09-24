@@ -5,7 +5,7 @@
     </div>
     <div class="grid lg:grid-cols-2 grid-cols-1 space-y-5">
       <div class="h-full">
-        <img src="../assets/img/spaghetti-g9eaf2bb04_1280.jpg" />
+        <img src="/src/assets/img/spaghetti-g9eaf2bb04_1280.jpg" />
       </div>
       <div class="flex flex-col space-y-2 justify-center lg:px-10 px-5">
         <h2>Lorem ipsum dolor sit amet</h2>
@@ -30,7 +30,7 @@
         </p>
       </div>
       <div class="h-full lg:order-3 order-1">
-        <img src="../assets/img/meal-g7fccfaafa_1280.jpg" />
+        <img src="/src/assets/img/meal-g7fccfaafa_1280.jpg" />
       </div>
     </div>
   </section>
